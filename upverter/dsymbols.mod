@@ -1,3 +1,0 @@
-PCBNEW-LibModule-V1   29/04/2008-12:22:17
-$INDEX
-$EndINDEX
